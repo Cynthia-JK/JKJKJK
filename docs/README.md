@@ -24,7 +24,6 @@ body {
 
 table {
     width: 100%;
-    border-collapse: collapse;
     table-layout：fixed；
 }
 
