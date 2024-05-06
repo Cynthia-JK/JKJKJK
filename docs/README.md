@@ -25,6 +25,7 @@ body {
 table {
     width: 100%;
     border-collapse: collapse;
+    table-layout：fixed；
 }
 
 table, th, td {
@@ -32,8 +33,10 @@ table, th, td {
 }
 
 th, td {
+    width：150px；
     padding: 8px;
     text-align: left;
+    
 }
 
 th {
