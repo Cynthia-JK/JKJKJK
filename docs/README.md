@@ -48,9 +48,9 @@ th {
 
 ### About me
 
-| Gender | Age | MBTI | Horoscope | Hobbies |
-| :-----: | :----: | :-------: | :------: |:------: |
-| Female |  20 | INTP | Pisces   | Listen to music, watch variety shows |
+| Gender | Age | MBTI | Horoscope | Hobbies
+| :-----: | :----: | :-------: | :------: |:------:
+| Female |  20 | INTP | Pisces   | Listen to music, watch variety shows
 
 ### Picture
 ![](https://cdn.jsdelivr.net/gh/Cynthia-JK/picture/img/pict.JPG)
