@@ -1,20 +1,17 @@
 <style>
 body {
-    background-color: #000000; /* 黑色背景 */
-    color: #FFFFFF; /* 白色文字 */
-    margin: 0; /* 移除默认的边距 */
-    padding: 0; /* 移除默认的填充 */
-    font-family: Arial, sans-serif; /* 设置默认字体 */
+    background-color: #000000; 
+    color: #FFFFFF; 
+    font-family: Arial, sans-serif; 
 }
 
-/* 可选：为确保内容在页面中央，可以添加以下样式 */
 .container {
     width: 80%;
     margin: auto;
     text-align: center;
 }
 
-/* 表格样式 */
+
 table {
     width: 100%;
     border-collapse: collapse;
