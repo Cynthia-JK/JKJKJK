@@ -1,3 +1,4 @@
+
 <style>
 body {
     background-color: #000000; 
@@ -5,6 +6,13 @@ body {
      margin: 0; 
     padding: 0; 
     font-family: Arial, sans-serif; 
+}
+
+.sidebar {
+    background-color: #000000; /* 黑色背景 */
+    width: 20%; /* 根据需要调整宽度 */
+    float: left; /* 让菜单浮动到左侧 */
+    height: 100vh; /* 根据需要调整高度，这里设置为视口高度 */
 }
 
 .container {
@@ -36,6 +44,7 @@ th {
 <div class="container">
 
 # Cynthia
+
 
 ### About me
 
